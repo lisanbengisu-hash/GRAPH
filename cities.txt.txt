@@ -1,0 +1,8 @@
+0 Izmir
+1 Manisa
+2 Aydin
+3 Mugla
+4 Denizli
+5 Kutahya
+6 Afyonkarahisar
+7 Usak
